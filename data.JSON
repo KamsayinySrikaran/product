@@ -6,26 +6,26 @@
     "colors": ["#782835", "#ebe4e4", "#888785"],
     "featured": false,
     "price": 129999,
-    "name": "fashionable sofa",
+    "name": "Kings_star_Bed",
     "image": [
       {
         "id": "erwr324231",
-        "url": "https://i.imgur.com/8EQTm2D.jpg",
+        "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690042854/Furniture/Beds/Kings_star_Bed.jpg",
         "filename": "product-1.jpg",
         "type": "image/jpg",
         "thumbnails": {
           "small": {
-            "url": "https://i.imgur.com/8EQTm2Dt.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690042854/Furniture/Beds/Kings_star_Bed.jpg",
             "width": 160,
             "height": 83
           },
           "large": {
-            "url": "https://i.imgur.com/8EQTm2Dl.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690042854/Furniture/Beds/Kings_star_Bed.jpg",
             "width": 640,
             "height": 332
           },
           "full": {
-            "url": "https://i.imgur.com/8EQTm2Dh.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690042854/Furniture/Beds/Kings_star_Bed.jpg",
             "width": 2890,
             "height": 1500
           }
@@ -37,7 +37,7 @@
   },
   {
     "id": "2hk435khkfhd",
-    "designer": "Égide Tourneur",
+    "designer": "Beds",
     "colors": ["#888785", "#ebe4e4"],
     "featured": false,
     "price": 219999,
@@ -45,22 +45,22 @@
     "image": [
       {
         "id": "ewr3423r323",
-        "url": "https://i.imgur.com/wxrqBWV.jpg",
+        "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690042854/Furniture/Beds/PKBGI-07_Bed_up3dba.jpg",
         "filename": "product-2.jpg",
         "type": "image/jpg",
         "thumbnails": {
           "small": {
-            "url": "https://i.imgur.com/wxrqBWVt.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690042854/Furniture/Beds/PKBGI-07_Bed_up3dba.jpg",
             "width": 160,
             "height": 160
           },
           "large": {
-            "url": "https://i.imgur.com/wxrqBWVl.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690042854/Furniture/Beds/PKBGI-07_Bed_up3dba.jpg",
             "width": 640,
             "height": 640
           },
           "full": {
-            "url": "https://i.imgur.com/wxrqBWVh.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690042854/Furniture/Beds/PKBGI-07_Bed_up3dba.jpg",
             "width": 3300,
             "height": 3300
           }
@@ -72,30 +72,30 @@
   },
   {
     "id": "3knljjh5j46",
-    "designer": "Åsmund Munsen",
+    "designer": "Chairs",
     "colors": ["#626262", "#d9882e"],
     "featured": false,
     "price": 59999,
-    "name": "compact sofa",
+    "name": "Wooden easy chair",
     "image": [
       {
         "id": "ft565432",
-        "url": "https://i.imgur.com/ioakyiE.jpg",
+        "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050943/Furniture/Chairs/314496418_5302697266496217_1042412050935300015_n_iuhds3.jpg",
         "filename": "product-3.jpg",
         "type": "image/jpg",
         "thumbnails": {
           "small": {
-            "url": "https://i.imgur.com/ioakyiEt.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050943/Furniture/Chairs/289162656_4909295659169715_5604062234990078902_n_y2c1oz.jpg",
             "width": 160,
             "height": 128
           },
           "large": {
-            "url": "https://i.imgur.com/ioakyiEl.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050943/Furniture/Chairs/314496418_5302697266496217_1042412050935300015_n_iuhds3.jpg",
             "width": 640,
             "height": 512
           },
           "full": {
-            "url": "https://i.imgur.com/ioakyiEh.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050943/Furniture/Chairs/314496418_5302697266496217_1042412050935300015_n_iuhds3.jpg",
             "width": 1400,
             "height": 1120
           }
@@ -107,7 +107,7 @@
   },
   {
     "id": "4hjhjkh435kj",
-    "designer": "Åsmund Munsen",
+    "designer": "Chairs",
     "colors": ["#888785", "#4a3d32", "#3a82c9"],
     "featured": false,
     "price": 49999,
@@ -115,22 +115,22 @@
     "image": [
       {
         "id": "dfg5643523",
-        "url": "https://i.imgur.com/HkIqanT.jpg",
+        "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050942/Furniture/Chairs/312589412_5275963445836266_563038187996477135_n_zwpkir.jpg",
         "filename": "product-4.jpg",
         "type": "image/jpg",
         "thumbnails": {
           "small": {
-            "url": "https://i.imgur.com/HkIqanTt.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050942/Furniture/Chairs/312589412_5275963445836266_563038187996477135_n_zwpkir.jpg",
             "width": 160,
             "height": 120
           },
           "large": {
-            "url": "https://i.imgur.com/HkIqanTl.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050942/Furniture/Chairs/312589412_5275963445836266_563038187996477135_n_zwpkir.jpg",
             "width": 640,
             "height": 480
           },
           "full": {
-            "url": "https://i.imgur.com/HkIqanTh.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050942/Furniture/Chairs/312589412_5275963445836266_563038187996477135_n_zwpkir.jpg",
             "width": 1200,
             "height": 900
           }
@@ -142,7 +142,7 @@
   },
   {
     "id": "5ohewhhewrkj",
-    "designer": "Égide Tourneur",
+    "designer": "Chairs",
     "colors": ["#3a82c9", "#ebe4e4", "#db9081"],
     "featured": true,
     "price": 79999,
@@ -150,22 +150,22 @@
     "image": [
       {
         "id": "ijeiwjrh3",
-        "url": "https://i.imgur.com/tqRiKFI.jpg",
+        "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050938/Furniture/Chairs/311410687_5255525981213346_2623534537430492057_n_nnuikp.jpg",
         "filename": "product-5.jpg",
         "type": "image/jpg",
         "thumbnails": {
           "small": {
-            "url": "https://i.imgur.com/tqRiKFIt.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050938/Furniture/Chairs/311410687_5255525981213346_2623534537430492057_n_nnuikp.jpg",
             "width": 160,
             "height": 83
           },
           "large": {
-            "url": "https://i.imgur.com/tqRiKFIl.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050938/Furniture/Chairs/311410687_5255525981213346_2623534537430492057_n_nnuikp.jpg",
             "width": 640,
             "height": 332
           },
           "full": {
-            "url": "https://i.imgur.com/tqRiKFIh.jpg",
+            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050938/Furniture/Chairs/311410687_5255525981213346_2623534537430492057_n_nnuikp.jpg",
             "width": 2890,
             "height": 1500
           }
