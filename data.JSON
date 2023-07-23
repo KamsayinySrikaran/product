@@ -595,39 +595,4 @@
     "description": "Vestibulum tincidunt felis lectus, et mollis libero fringilla et. Phasellus at gravida neque. Donec semper urna a tristique pretium. Maecenas sed ligula varius, tempus quam sagittis, gravida neque. Donec gravida erat lorem. Duis sit amet enim ex. Suspendisse potenti. Mauris nec mauris posuere, placerat sapien ut, pretium dolor. Pellentesque at facilisis tortor, sed tristique lectus. Nunc id tellus vulputate, fringilla enim ut.",
     "shipping": false
   }
-{
-    "id": "18oiewr8",
-    "designer": "Cupboards",
-    "colors": ["#ebe4e4", "#db9081"],
-    "featured": true,
-    "price": 199999,
-    "name": "modern shelves",
-    "image": [
-      {
-        "id": "ulh53h53yg5",
-        "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050985/Furniture/Cupboards/312256376_5255497377882873_5423334937424760688_n_1_zorlpo.jpg",
-        "filename": "product-17.jpg",
-        "type": "image/jpg",
-        "thumbnails": {
-          "small": {
-            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050985/Furniture/Cupboards/312256376_5255497377882873_5423334937424760688_n_1_zorlpo.jpg",
-            "width": 160,
-            "height": 83
-          },
-          "large": {
-            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050985/Furniture/Cupboards/312256376_5255497377882873_5423334937424760688_n_1_zorlpo.jpg",
-            "width": 640,
-            "height": 332
-          },
-          "full": {
-            "url": "https://res.cloudinary.com/dgdglrai5/image/upload/v1690050985/Furniture/Cupboards/312256376_5255497377882873_5423334937424760688_n_1_zorlpo.jpg",
-            "width": 2890,
-            "height": 1500
-          }
-        }
-      }
-    ],
-    "description": "Vestibulum tincidunt felis lectus, et mollis libero fringilla et. Phasellus at gravida neque. Donec semper urna a tristique pretium. Maecenas sed ligula varius, tempus quam sagittis, gravida neque. Donec gravida erat lorem. Duis sit amet enim ex. Suspendisse potenti. Mauris nec mauris posuere, placerat sapien ut, pretium dolor. Pellentesque at facilisis tortor, sed tristique lectus. Nunc id tellus vulputate, fringilla enim ut.",
-    "shipping": false
-  }
 ]
